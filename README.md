@@ -16,7 +16,7 @@ The official document from RStudio can be found [here](http://rmarkdown.rstudio.
 
 ### Make the first version of your website
 
-- Fork this repo (top-right) and rename it to be 'YOURGITHUB.github.io' (in Settings of your brand new repo).
+- Fork this repo (top-right) and **rename it to be 'YOURGITHUB.github.io'** (in Settings of your brand new repo, case sensitive).
 
 - Get the link from cloning the repo. Use the green button "Clone" and make sure you use SSH, not HTTPS. Then, go to RStudio, create a New Project > Version Control > Git and copy this link. You have cloned your new repo as an R project.
 
@@ -54,3 +54,5 @@ As a reminder, all credit goes to the geniuses at RStudio (thanks also to [GitHu
 
 If anything is false or not clear enough, feel free to contact me or open an issue.
 If it is an issue only related with R Markdown, you'll find a better answer posting [there](https://github.com/rstudio/rmarkdown).
+
+Practicing push/pull
