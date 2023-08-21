@@ -7,7 +7,3 @@ title: "CV"
 ## Header
 
 Say more about your CV here.
-
-#Trying to push 
-
-#Making Website :D 
